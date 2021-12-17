@@ -1,3 +1,6 @@
 second commit 
 restored
-three branch
+
+check code editor
+merge check
+
