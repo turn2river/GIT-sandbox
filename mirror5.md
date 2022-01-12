@@ -1,1 +1,1 @@
-change to post recieve
+change to pre-push
